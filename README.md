@@ -1,2 +1,2 @@
 # network
-Notas de estudos sobre redes 
+Notas de estudos sobre tecnologias de redes 
